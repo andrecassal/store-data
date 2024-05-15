@@ -2,10 +2,10 @@
   "store": {
     "name": "OGEE",
     "url": "https://ogee.com/",
-    "handle":"@ogee",
+    "handle": "@ogee",
     "profile_image": {
-      "url":"https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/344788069_957941425232320_6939578885739551149_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=Ldu025F2-aEQ7kNvgG3zl47&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYAa2AtNEXsCbSOjth6BvI9WwGe6JW_w7lpjww1gbSy8Mg&oe=6645C6ED&_nc_sid=8b3546",
-      "data":"data:image/jpeg;base64,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zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzyeanj1J1Mwwz205zzzzzxLzzWv3m7XDv7v3zzzzzxLzwlX22JW3767zzzzzzy/j+f8A49LW807478888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888/8QAIxEBAAIBAwQCAwAAAAAAAAAAAQARIRBhkSAxQXBRcaGx8P/aAAgBAwEBPxD1GufYJguaGFxRMjIx5B+Q/ibxOUZLyk/ksVKIYAg2v2Y09cVDzqLV4hgLeWArRK/DobbES0nc+pbYiZadeAPGrtUZBSmmDWSNZdDei2Fnc+peZi2F61wcjMtyQGXxEwYCJAWA0zenMG86y5tNpEi6RkqohWkauz1J/8QAJBEBAAIABAYDAQAAAAAAAAAAAQARITFRcUFhgZGhwRAgsXD/2gAIAQIBAT8Q/kYgBayILaOWCusHtLo4wrooZkergQOzp1m9Zc4je4fx7ydd+cxLq79QpzdiHFaaURYdWwBZjyIFFXY+60Bdfh8rVFX+MXhGHlgAGUNsog6g3uTL1eoU5e5GaK7zz4MK5HEidFd/udYXX6fJ09V/rE4Xh4YABkwBQslVQx4bk93qFWXsRawHaefEInI4ESsF7H3GrUcmGWL1MRg9q9XAg2e3mxLEjyGmZ0iKxTtEp0yHHrM/lX6hXn8Q4LO0JBdMC24bRaC/H8k//8QAKhABAAECAwcFAAMBAAAAAAAAAREAITFBUSBhcYGhsfAQMJHB0UCQ8eH/2gAIAQEAAT8Q/qHxoBJAVOfmCUHgF3pRxNMAB6y0XAEyA/lTvBi5OJjTwXgqdgq6eF1fnOno7sWDnYpJO7LflDR/jCe35QGdGBbLoP7QzTQ2EFMX5QBJeN1BkM6f4qX8ZwolfpWCCcyPQEEESJhxwoAEi4kh6VPRnT/FeQX4oQmmFpzwrB7l0zB9G+jYbEtt536tRMFL5d3GhUFQU6ACWS5x1Kh83QrYeYNQQjJqbnf6QzCMuKGvHSnpDdLfOvpWAHYICoqKCcEhY3X9oKXhk3lELUprqXeukPWPTxOteJ09Y92wAQjNYHI70JMI8DNdjZOBseS4eb6UmyjoP07Vie974yqeTuC2KDOCDfv2G9YsBKCJdaa6l3rpDZ8TrXmdP4DJMpwGDtQtMZPNfmyEvIHJKbE3wZh70luSXCZ+qB7A6Av1sLpNhCe1YWPDSrX8QJfimupd6WRJGv8AKRJYuOsHHhpTNwDJETx4enidaAEGJ4hwqWMXHWCDw0pA8UxKxxN/uucuPyWTvRQsSvJbJuc4uaU5WPc0pBMvwmPujw53BPvYECbgyUWGUb2Qd9dK7NNdS70ZjC30oQsc6x1/P7Q8xBZo9PE606xfhdiliFDnWPj5/aeNqUkxp7quoz6HD5O1WCku5jb6fOyQtdi0DDr2pBFiFqz6J6VjcOemjQAGOTQNYHwho5nzseZ1V0rs011LvXSGz4nWvM6fwJLgRbEck3lPS04yx5iUeIJfbn2b/VG85HFUliXnIaHGxdcVmvo+IBA5DTedaeMsc48DTWgJAkRkT1AFEK6UjDTfSgWaLC2E5u6mupd66Q2fE615nT+DkhMHU0aLnF0onAfdWu5mTuJTm0zE+2p45YilebRITyM97sMFNuV4mdIJJc0dG1Roe6z/ANqadmYh1u1NfWVEHi4tW80AQFO6g8Yq/LhQxc8tKVAi61eMD4q/Ul0mS1kjH0NVKjcC52oGgKARB8UwkDrVJeZ4VFTqV3LmFExf34Kg9iD+m7//2Q=="
+      "url": "https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/344788069_957941425232320_6939578885739551149_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=1&_nc_ohc=Ldu025F2-aEQ7kNvgG3zl47&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYAa2AtNEXsCbSOjth6BvI9WwGe6JW_w7lpjww1gbSy8Mg&oe=6645C6ED&_nc_sid=8b3546",
+      "data": "data:image/jpeg;base64,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zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzyeanj1J1Mwwz205zzzzzxLzzWv3m7XDv7v3zzzzzxLzwlX22JW3767zzzzzzy/j+f8A49LW807478888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888/8QAIxEBAAIBAwQCAwAAAAAAAAAAAQARIRBhkSAxQXBRcaGx8P/aAAgBAwEBPxD1GufYJguaGFxRMjIx5B+Q/ibxOUZLyk/ksVKIYAg2v2Y09cVDzqLV4hgLeWArRK/DobbES0nc+pbYiZadeAPGrtUZBSmmDWSNZdDei2Fnc+peZi2F61wcjMtyQGXxEwYCJAWA0zenMG86y5tNpEi6RkqohWkauz1J/8QAJBEBAAIABAYDAQAAAAAAAAAAAQARITFRcUFhgZGhwRAgsXD/2gAIAQIBAT8Q/kYgBayILaOWCusHtLo4wrooZkergQOzp1m9Zc4je4fx7ydd+cxLq79QpzdiHFaaURYdWwBZjyIFFXY+60Bdfh8rVFX+MXhGHlgAGUNsog6g3uTL1eoU5e5GaK7zz4MK5HEidFd/udYXX6fJ09V/rE4Xh4YABkwBQslVQx4bk93qFWXsRawHaefEInI4ESsF7H3GrUcmGWL1MRg9q9XAg2e3mxLEjyGmZ0iKxTtEp0yHHrM/lX6hXn8Q4LO0JBdMC24bRaC/H8k//8QAKhABAAECAwcFAAMBAAAAAAAAAREAITFBUSBhcYGhsfAQMJHB0UCQ8eH/2gAIAQEAAT8Q/qHxoBJAVOfmCUHgF3pRxNMAB6y0XAEyA/lTvBi5OJjTwXgqdgq6eF1fnOno7sWDnYpJO7LflDR/jCe35QGdGBbLoP7QzTQ2EFMX5QBJeN1BkM6f4qX8ZwolfpWCCcyPQEEESJhxwoAEi4kh6VPRnT/FeQX4oQmmFpzwrB7l0zB9G+jYbEtt536tRMFL5d3GhUFQU6ACWS5x1Kh83QrYeYNQQjJqbnf6QzCMuKGvHSnpDdLfOvpWAHYICoqKCcEhY3X9oKXhk3lELUprqXeukPWPTxOteJ09Y92wAQjNYHI70JMI8DNdjZOBseS4eb6UmyjoP07Vie974yqeTuC2KDOCDfv2G9YsBKCJdaa6l3rpDZ8TrXmdP4DJMpwGDtQtMZPNfmyEvIHJKbE3wZh70luSXCZ+qB7A6Av1sLpNhCe1YWPDSrX8QJfimupd6WRJGv8AKRJYuOsHHhpTNwDJETx4enidaAEGJ4hwqWMXHWCDw0pA8UxKxxN/uucuPyWTvRQsSvJbJuc4uaU5WPc0pBMvwmPujw53BPvYECbgyUWGUb2Qd9dK7NNdS70ZjC30oQsc6x1/P7Q8xBZo9PE606xfhdiliFDnWPj5/aeNqUkxp7quoz6HD5O1WCku5jb6fOyQtdi0DDr2pBFiFqz6J6VjcOemjQAGOTQNYHwho5nzseZ1V0rs011LvXSGz4nWvM6fwJLgRbEck3lPS04yx5iUeIJfbn2b/VG85HFUliXnIaHGxdcVmvo+IBA5DTedaeMsc48DTWgJAkRkT1AFEK6UjDTfSgWaLC2E5u6mupd66Q2fE615nT+DkhMHU0aLnF0onAfdWu5mTuJTm0zE+2p45YilebRITyM97sMFNuV4mdIJJc0dG1Roe6z/ANqadmYh1u1NfWVEHi4tW80AQFO6g8Yq/LhQxc8tKVAi61eMD4q/Ul0mS1kjH0NVKjcC52oGgKARB8UwkDrVJeZ4VFTqV3LmFExf34Kg9iD+m7//2Q=="
     }
   },
   "products": {
@@ -491,7 +491,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/discovery-set-model-pdp.jpg?v=1710880434"
         }
       ],
-      "price": "",
+      "price": 125,
       "product": [
         "bf88227a-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88225c-0fed-11ef-acf0-36ed3c6c91fc",
@@ -500,7 +500,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 4487,
-      "sale_price": 125,
+      "sale_price": 0,
       "title": "The Discovery Set",
       "url": "https://ogee.com/products/the-discovery-set",
       "review": [
@@ -687,7 +687,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/Ogee_12_7_22_33970-_1.jpg?v=1697744430"
         }
       ],
-      "price": "",
+      "price": 56,
       "product": [
         "bf8820ea-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8820cc-0fed-11ef-acf0-36ed3c6c91fc",
@@ -696,7 +696,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 356,
-      "sale_price": 56,
+      "sale_price": 0,
       "title": "Luminous Botanical Face Mist",
       "url": "https://ogee.com/products/luminous-botanical-face-mist",
       "review": [
@@ -733,7 +733,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/f90f6b9e3a12475886300cbbb76ee7c0.thumbnail.0000000.jpg?v=1605797697"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf882086-0fed-11ef-acf0-36ed3c6c91fc",
         "bf882072-0fed-11ef-acf0-36ed3c6c91fc",
@@ -742,7 +742,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 1529,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Jojoba Glow Face Oil",
       "url": "https://ogee.com/products/organic-anti-aging-moisturizing-face-oil",
       "review": [
@@ -791,7 +791,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/Ogee_8_08_22_1956.jpg?v=1697722469"
         }
       ],
-      "price": "",
+      "price": 98,
       "product": [
         "bf882022-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88200e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -800,7 +800,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 886,
-      "sale_price": 98,
+      "sale_price": 0,
       "title": "Brightening Botanical Eye Balm",
       "url": "https://ogee.com/products/brightening-botanical-eye-balm",
       "review": [
@@ -853,7 +853,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-INDIGO-DREAM-RENEWAL-CREAM-SECONDARY-PDP.jpg?v=1677082841"
         }
       ],
-      "price": "",
+      "price": 138,
       "product": [
         "bf881fbe-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881faa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -862,7 +862,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 378,
-      "sale_price": 138,
+      "sale_price": 0,
       "title": "Indigo Dream Renewal Cream",
       "url": "https://ogee.com/products/indigo-dream-renewal-cream",
       "review": [
@@ -911,7 +911,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-GLACIAL-CLAY-DETOX-MASK-SECONDARY-PDP.jpg?v=1677091157"
         }
       ],
-      "price": "",
+      "price": 78,
       "product": [
         "bf881f5a-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881f46-0fed-11ef-acf0-36ed3c6c91fc",
@@ -920,7 +920,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 201,
-      "sale_price": 78,
+      "sale_price": 0,
       "title": "Glacial Clay Detox Mask",
       "url": "https://ogee.com/products/glacial-clay-detox-mask",
       "review": [
@@ -957,7 +957,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/90A7533.jpg?v=1681496442"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881ef6-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881ee2-0fed-11ef-acf0-36ed3c6c91fc",
@@ -966,7 +966,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 276,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Natural Retinol Bakuchiol 2% Elixir",
       "url": "https://ogee.com/products/elixir-natural-retinol-bakuchiol-2",
       "review": [
@@ -1003,7 +1003,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/90A7515.jpg?v=1681496490"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881e92-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881e7e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1012,7 +1012,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 299,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Vitamin C THDA 20% Elixir",
       "url": "https://ogee.com/products/elixir-vitamin-c-thda-20",
       "review": [
@@ -1049,7 +1049,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/OGEE_SERUM_HA_WATER_BACKGROUND2.jpg?v=1709308319"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881e2e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881e1a-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1058,7 +1058,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 259,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Hyaluronic Acid HA 1.5% Elixir",
       "url": "https://ogee.com/products/hyaluronic-acid-elixir",
       "review": [
@@ -1099,7 +1099,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/3fb5bf265b45464795807fbbd8909d1a.thumbnail.0000000000.jpg?v=1694109035"
         }
       ],
-      "price": "",
+      "price": 120,
       "product": [
         "bf881dca-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881db6-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1108,7 +1108,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 591,
-      "sale_price": 120,
+      "sale_price": 0,
       "title": "Seeds of Youth Serum",
       "url": "https://ogee.com/products/seeds-of-youth-serum-2023",
       "review": [
@@ -1141,7 +1141,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/ogee-moisturizer-goop-3.jpg?v=1697650518"
         }
       ],
-      "price": "",
+      "price": 86,
       "product": [
         "bf881d66-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881d52-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1150,7 +1150,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 704,
-      "sale_price": 86,
+      "sale_price": 0,
       "title": "Activated Botanical Primer",
       "url": "https://ogee.com/products/activated-botanical-primer",
       "review": [
@@ -1203,7 +1203,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/blemish-before-after_1.jpg?v=1713191099"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881d02-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881cee-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1212,7 +1212,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 44,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Targeted Blemish Treatment",
       "url": "https://ogee.com/products/targeted-blemish-treatment",
       "review": [
@@ -1241,7 +1241,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-LIPOIL-SWATCH-CLEAR-4.jpg?v=1680120093"
         }
       ],
-      "price": "",
+      "price": 28,
       "product": [
         "bf881c9e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881c8a-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1250,7 +1250,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 1741,
-      "sale_price": 28,
+      "sale_price": 0,
       "title": "Sculpted Lip Oil - Clear",
       "url": "https://ogee.com/products/organic-moisturizing-lip-balm-with-jojoba-oil",
       "review": [
@@ -1311,7 +1311,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/283b67c9fbab42719b7bc1f090d85a45.thumbnail.0000000000.jpg?v=1660831013"
         }
       ],
-      "price": "",
+      "price": 46,
       "product": [
         "bf881c3a-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881c26-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1320,7 +1320,7 @@
       ],
       "ratings": 4.7,
       "ratings_total": 484,
-      "sale_price": 46,
+      "sale_price": 0,
       "title": "Full Bloom Sculpted Lipstick",
       "url": "https://ogee.com/products/full-bloom-sculpted-lipstick",
       "review": [
@@ -1381,7 +1381,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-CROP_0021_ogee-lip-tint-Steph-azalea-1_jpeg.jpg?v=1681418364"
         }
       ],
-      "price": "",
+      "price": 32,
       "product": [
         "bf881bd6-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881bc2-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1390,7 +1390,7 @@
       ],
       "ratings": 4.7,
       "ratings_total": 4089,
-      "sale_price": 32,
+      "sale_price": 0,
       "title": "Tinted Sculpted Lip Oil",
       "url": "https://ogee.com/products/camellia",
       "review": [
@@ -1471,7 +1471,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1480,7 +1480,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "url": "https://ogee.com/products/sculpted-face-stick",
       "review": [
@@ -1545,7 +1545,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1554,7 +1554,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "url": "https://ogee.com/products/the-brush-cleanser",
       "review": [
@@ -1591,7 +1591,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1600,7 +1600,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "url": "https://ogee.com/products/the-precision-brush",
       "review": [
@@ -1645,7 +1645,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1654,7 +1654,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "url": "https://ogee.com/products/the-blender-brush",
       "review": [
@@ -1707,7 +1707,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1716,7 +1716,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "url": "https://ogee.com/products/sculpted-complexion-stick",
       "review": [
@@ -1805,7 +1805,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/0124-ogee-mascara-BA-2.jpg?v=1707326578"
         }
       ],
-      "price": "",
+      "price": 48,
       "product": [
         "bf881988-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88196a-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1814,7 +1814,7 @@
       ],
       "ratings": 4.6,
       "ratings_total": 279,
-      "sale_price": 48,
+      "sale_price": 0,
       "title": "Beyond Clean Volumizing Mascara",
       "url": "https://ogee.com/products/beyond-clean-volumizing-mascara",
       "review": [
@@ -1901,7 +1901,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1910,7 +1910,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49cfec34-0fed-11ef-a309-36ed3c6c91fc",
@@ -1947,7 +1947,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -1956,7 +1956,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49cfecca-0fed-11ef-a309-36ed3c6c91fc",
@@ -2001,7 +2001,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2010,7 +2010,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49cfed56-0fed-11ef-a309-36ed3c6c91fc",
@@ -2175,7 +2175,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2184,7 +2184,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49cfef04-0fed-11ef-a309-36ed3c6c91fc",
@@ -2229,7 +2229,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2238,7 +2238,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49cfefa4-0fed-11ef-a309-36ed3c6c91fc",
@@ -2403,7 +2403,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2412,7 +2412,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49cff15c-0fed-11ef-a309-36ed3c6c91fc",
@@ -2449,7 +2449,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2458,7 +2458,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49cff1e8-0fed-11ef-a309-36ed3c6c91fc",
@@ -2499,11 +2499,11 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/Juliyasculptor.00_05_20_10.Still001.jpg?v=1700586527"
         }
       ],
-      "price": "",
+      "price": 65,
       "product": [],
       "ratings": 4.9,
       "ratings_total": 58,
-      "sale_price": 65,
+      "sale_price": 0,
       "title": "The Sculptor",
       "review": [
         "49cff274-0fed-11ef-a309-36ed3c6c91fc",
@@ -2590,7 +2590,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2599,7 +2599,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49cff396-0fed-11ef-a309-36ed3c6c91fc",
@@ -2644,7 +2644,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2653,7 +2653,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49cff422-0fed-11ef-a309-36ed3c6c91fc",
@@ -2694,11 +2694,11 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/Juliyasculptor.00_05_20_10.Still001.jpg?v=1700586527"
         }
       ],
-      "price": "",
+      "price": 65,
       "product": [],
       "ratings": 4.9,
       "ratings_total": 58,
-      "sale_price": 65,
+      "sale_price": 0,
       "title": "The Sculptor",
       "review": [
         "49cff4c2-0fed-11ef-a309-36ed3c6c91fc",
@@ -2785,7 +2785,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2794,7 +2794,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49cff5e4-0fed-11ef-a309-36ed3c6c91fc",
@@ -2839,7 +2839,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2848,7 +2848,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49cff670-0fed-11ef-a309-36ed3c6c91fc",
@@ -2979,7 +2979,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -2988,7 +2988,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49cff792-0fed-11ef-a309-36ed3c6c91fc",
@@ -3069,7 +3069,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3078,7 +3078,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49cff828-0fed-11ef-a309-36ed3c6c91fc",
@@ -3123,7 +3123,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3132,7 +3132,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49cff8c8-0fed-11ef-a309-36ed3c6c91fc",
@@ -3219,7 +3219,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3228,7 +3228,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49cff9f4-0fed-11ef-a309-36ed3c6c91fc",
@@ -3265,7 +3265,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3274,7 +3274,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49cffa80-0fed-11ef-a309-36ed3c6c91fc",
@@ -3319,7 +3319,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3328,7 +3328,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49cffb16-0fed-11ef-a309-36ed3c6c91fc",
@@ -3415,7 +3415,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3424,7 +3424,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49cffc38-0fed-11ef-a309-36ed3c6c91fc",
@@ -3461,7 +3461,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3470,7 +3470,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49cffcce-0fed-11ef-a309-36ed3c6c91fc",
@@ -3515,7 +3515,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3524,7 +3524,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49cffd64-0fed-11ef-a309-36ed3c6c91fc",
@@ -3581,7 +3581,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3590,7 +3590,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49cffdfa-0fed-11ef-a309-36ed3c6c91fc",
@@ -3737,7 +3737,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-CROP_0021_ogee-lip-tint-Steph-azalea-1_jpeg.jpg?v=1681418364"
         }
       ],
-      "price": "",
+      "price": 32,
       "product": [
         "bf881bd6-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881bc2-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3746,7 +3746,7 @@
       ],
       "ratings": 4.7,
       "ratings_total": 4089,
-      "sale_price": 32,
+      "sale_price": 0,
       "title": "Tinted Sculpted Lip Oil",
       "review": [
         "49cfff44-0fed-11ef-a309-36ed3c6c91fc",
@@ -3823,7 +3823,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3832,7 +3832,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49cfffda-0fed-11ef-a309-36ed3c6c91fc",
@@ -3933,7 +3933,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -3942,7 +3942,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49d00066-0fed-11ef-a309-36ed3c6c91fc",
@@ -4011,7 +4011,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/discovery-set-model-pdp.jpg?v=1710880434"
         }
       ],
-      "price": "",
+      "price": 125,
       "product": [
         "bf88227a-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88225c-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4020,7 +4020,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 4487,
-      "sale_price": 125,
+      "sale_price": 0,
       "title": "The Discovery Set",
       "review": [
         "49d00106-0fed-11ef-a309-36ed3c6c91fc",
@@ -4151,7 +4151,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4160,7 +4160,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d0021e-0fed-11ef-a309-36ed3c6c91fc",
@@ -4245,7 +4245,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-CROP_0021_ogee-lip-tint-Steph-azalea-1_jpeg.jpg?v=1681418364"
         }
       ],
-      "price": "",
+      "price": 32,
       "product": [
         "bf881bd6-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881bc2-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4254,7 +4254,7 @@
       ],
       "ratings": 4.7,
       "ratings_total": 4089,
-      "sale_price": 32,
+      "sale_price": 0,
       "title": "Tinted Sculpted Lip Oil",
       "review": [
         "49d002b4-0fed-11ef-a309-36ed3c6c91fc",
@@ -4335,7 +4335,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4344,7 +4344,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49d00340-0fed-11ef-a309-36ed3c6c91fc",
@@ -4503,7 +4503,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4512,7 +4512,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d00480-0fed-11ef-a309-36ed3c6c91fc",
@@ -4605,7 +4605,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/Ogee_8_08_22_1956.jpg?v=1697722469"
         }
       ],
-      "price": "",
+      "price": 98,
       "product": [
         "bf882022-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88200e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4614,7 +4614,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 886,
-      "sale_price": 98,
+      "sale_price": 0,
       "title": "Brightening Botanical Eye Balm",
       "review": [
         "49d0050c-0fed-11ef-a309-36ed3c6c91fc",
@@ -4655,11 +4655,11 @@
           "original_src": "https://ogee.com/cdn/shop/products/242a6440c2c44807a944ed1dd75c3546.thumbnail.0000000.jpg?v=1590582933"
         }
       ],
-      "price": "",
+      "price": 72,
       "product": [],
       "ratings": 4.9,
       "ratings_total": 585,
-      "sale_price": 72,
+      "sale_price": 0,
       "title": "Liquid Gold Cleansing Oil",
       "review": [
         "49d005a2-0fed-11ef-a309-36ed3c6c91fc",
@@ -4712,7 +4712,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4721,7 +4721,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d00638-0fed-11ef-a309-36ed3c6c91fc",
@@ -4802,7 +4802,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/f90f6b9e3a12475886300cbbb76ee7c0.thumbnail.0000000.jpg?v=1605797697"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf882086-0fed-11ef-acf0-36ed3c6c91fc",
         "bf882072-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4811,7 +4811,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 1529,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Jojoba Glow Face Oil",
       "review": [
         "49d006c4-0fed-11ef-a309-36ed3c6c91fc",
@@ -4848,7 +4848,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/90A7515.jpg?v=1681496490"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881e92-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881e7e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4857,7 +4857,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 299,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Vitamin C THDA 20% Elixir",
       "review": [
         "49d0075a-0fed-11ef-a309-36ed3c6c91fc",
@@ -4972,7 +4972,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/90A7533.jpg?v=1681496442"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881ef6-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881ee2-0fed-11ef-acf0-36ed3c6c91fc",
@@ -4981,7 +4981,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 276,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Natural Retinol Bakuchiol 2% Elixir",
       "review": [
         "49d00886-0fed-11ef-a309-36ed3c6c91fc",
@@ -5034,7 +5034,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5043,7 +5043,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d0091c-0fed-11ef-a309-36ed3c6c91fc",
@@ -5124,7 +5124,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/OGEE_SERUM_HA_WATER_BACKGROUND2.jpg?v=1709308319"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881e2e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881e1a-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5133,7 +5133,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 259,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Hyaluronic Acid HA 1.5% Elixir",
       "review": [
         "49d00a2a-0fed-11ef-a309-36ed3c6c91fc",
@@ -5248,7 +5248,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/90A7533.jpg?v=1681496442"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881ef6-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881ee2-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5257,7 +5257,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 276,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Natural Retinol Bakuchiol 2% Elixir",
       "review": [
         "49d00b9c-0fed-11ef-a309-36ed3c6c91fc",
@@ -5310,7 +5310,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5319,7 +5319,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d00c32-0fed-11ef-a309-36ed3c6c91fc",
@@ -5478,7 +5478,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/OGEE_SERUM_HA_WATER_BACKGROUND2.jpg?v=1709308319"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881e2e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881e1a-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5487,7 +5487,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 259,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Hyaluronic Acid HA 1.5% Elixir",
       "review": [
         "49d00d5e-0fed-11ef-a309-36ed3c6c91fc",
@@ -5540,7 +5540,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5549,7 +5549,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d00df4-0fed-11ef-a309-36ed3c6c91fc",
@@ -5630,7 +5630,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/90A7515.jpg?v=1681496490"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf881e92-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881e7e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5639,7 +5639,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 299,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Vitamin C THDA 20% Elixir",
       "review": [
         "49d00e80-0fed-11ef-a309-36ed3c6c91fc",
@@ -5680,11 +5680,11 @@
           "original_src": "https://ogee.com/cdn/shop/products/7da8090e53d9401e9fcfde4bdad15d05.thumbnail.0000000000.jpg?v=1675674466"
         }
       ],
-      "price": "",
+      "price": 66,
       "product": [],
       "ratings": 5.0,
       "ratings_total": 413,
-      "sale_price": 66,
+      "sale_price": 0,
       "title": "Botanical Brilliance Exfoliating Cleanser",
       "review": [
         "49d00f16-0fed-11ef-a309-36ed3c6c91fc",
@@ -5733,7 +5733,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/Ogee_8_08_22_1956.jpg?v=1697722469"
         }
       ],
-      "price": "",
+      "price": 98,
       "product": [
         "bf882022-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88200e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5742,7 +5742,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 886,
-      "sale_price": 98,
+      "sale_price": 0,
       "title": "Brightening Botanical Eye Balm",
       "review": [
         "49d00fa2-0fed-11ef-a309-36ed3c6c91fc",
@@ -5873,7 +5873,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -5882,7 +5882,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d010ce-0fed-11ef-a309-36ed3c6c91fc",
@@ -6041,7 +6041,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/f90f6b9e3a12475886300cbbb76ee7c0.thumbnail.0000000.jpg?v=1605797697"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf882086-0fed-11ef-acf0-36ed3c6c91fc",
         "bf882072-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6050,7 +6050,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 1529,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Jojoba Glow Face Oil",
       "review": [
         "49d011f0-0fed-11ef-a309-36ed3c6c91fc",
@@ -6103,7 +6103,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6112,7 +6112,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d01286-0fed-11ef-a309-36ed3c6c91fc",
@@ -6205,7 +6205,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/Ogee_8_08_22_1956.jpg?v=1697722469"
         }
       ],
-      "price": "",
+      "price": 98,
       "product": [
         "bf882022-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88200e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6214,7 +6214,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 886,
-      "sale_price": 98,
+      "sale_price": 0,
       "title": "Brightening Botanical Eye Balm",
       "review": [
         "49d0131c-0fed-11ef-a309-36ed3c6c91fc",
@@ -6255,7 +6255,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-CROP_0021_ogee-lip-tint-Steph-azalea-1_jpeg.jpg?v=1681418364"
         }
       ],
-      "price": "",
+      "price": 32,
       "product": [
         "bf881bd6-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881bc2-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6264,7 +6264,7 @@
       ],
       "ratings": 4.7,
       "ratings_total": 4089,
-      "sale_price": 32,
+      "sale_price": 0,
       "title": "Tinted Sculpted Lip Oil",
       "review": [
         "49d013a8-0fed-11ef-a309-36ed3c6c91fc",
@@ -6345,7 +6345,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6354,7 +6354,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49d01434-0fed-11ef-a309-36ed3c6c91fc",
@@ -6513,7 +6513,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6522,7 +6522,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d0154c-0fed-11ef-a309-36ed3c6c91fc",
@@ -6607,11 +6607,11 @@
           "original_src": "https://ogee.com/cdn/shop/products/242a6440c2c44807a944ed1dd75c3546.thumbnail.0000000.jpg?v=1590582933"
         }
       ],
-      "price": "",
+      "price": 72,
       "product": [],
       "ratings": 4.9,
       "ratings_total": 585,
-      "sale_price": 72,
+      "sale_price": 0,
       "title": "Liquid Gold Cleansing Oil",
       "review": [
         "49d015ec-0fed-11ef-a309-36ed3c6c91fc",
@@ -6660,7 +6660,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/Ogee_8_08_22_1956.jpg?v=1697722469"
         }
       ],
-      "price": "",
+      "price": 98,
       "product": [
         "bf882022-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88200e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6669,7 +6669,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 886,
-      "sale_price": 98,
+      "sale_price": 0,
       "title": "Brightening Botanical Eye Balm",
       "review": [
         "49d01682-0fed-11ef-a309-36ed3c6c91fc",
@@ -6800,7 +6800,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6809,7 +6809,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d0179a-0fed-11ef-a309-36ed3c6c91fc",
@@ -6910,7 +6910,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6919,7 +6919,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49d01826-0fed-11ef-a309-36ed3c6c91fc",
@@ -6984,7 +6984,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/f90f6b9e3a12475886300cbbb76ee7c0.thumbnail.0000000.jpg?v=1605797697"
         }
       ],
-      "price": "",
+      "price": 88,
       "product": [
         "bf882086-0fed-11ef-acf0-36ed3c6c91fc",
         "bf882072-0fed-11ef-acf0-36ed3c6c91fc",
@@ -6993,7 +6993,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 1529,
-      "sale_price": 88,
+      "sale_price": 0,
       "title": "Jojoba Glow Face Oil",
       "review": [
         "49d018b2-0fed-11ef-a309-36ed3c6c91fc",
@@ -7124,7 +7124,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -7133,7 +7133,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d019d4-0fed-11ef-a309-36ed3c6c91fc",
@@ -7264,7 +7264,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/discovery-set-model-pdp.jpg?v=1710880434"
         }
       ],
-      "price": "",
+      "price": 125,
       "product": [
         "bf88227a-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88225c-0fed-11ef-acf0-36ed3c6c91fc",
@@ -7273,7 +7273,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 4487,
-      "sale_price": 125,
+      "sale_price": 0,
       "title": "The Discovery Set",
       "review": [
         "49d01aec-0fed-11ef-a309-36ed3c6c91fc",
@@ -7326,7 +7326,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -7335,7 +7335,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d01bb4-0fed-11ef-a309-36ed3c6c91fc",
@@ -7610,7 +7610,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -7619,7 +7619,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d01dee-0fed-11ef-a309-36ed3c6c91fc",
@@ -7836,7 +7836,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/Ogee_8_08_22_1956.jpg?v=1697722469"
         }
       ],
-      "price": "",
+      "price": 98,
       "product": [
         "bf882022-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88200e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -7845,7 +7845,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 886,
-      "sale_price": 98,
+      "sale_price": 0,
       "title": "Brightening Botanical Eye Balm",
       "review": [
         "49d01fa6-0fed-11ef-a309-36ed3c6c91fc",
@@ -7898,7 +7898,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -7907,7 +7907,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d02032-0fed-11ef-a309-36ed3c6c91fc",
@@ -8132,7 +8132,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8141,7 +8141,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49d02208-0fed-11ef-a309-36ed3c6c91fc",
@@ -8222,7 +8222,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8231,7 +8231,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d02294-0fed-11ef-a309-36ed3c6c91fc",
@@ -8406,7 +8406,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8415,7 +8415,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d023b6-0fed-11ef-a309-36ed3c6c91fc",
@@ -8546,7 +8546,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8555,7 +8555,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49d024d8-0fed-11ef-a309-36ed3c6c91fc",
@@ -8600,7 +8600,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8609,7 +8609,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49d02564-0fed-11ef-a309-36ed3c6c91fc",
@@ -8774,7 +8774,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8783,7 +8783,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49d02712-0fed-11ef-a309-36ed3c6c91fc",
@@ -8828,7 +8828,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8837,7 +8837,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49d027b2-0fed-11ef-a309-36ed3c6c91fc",
@@ -8944,7 +8944,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -8953,7 +8953,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d028ca-0fed-11ef-a309-36ed3c6c91fc",
@@ -9038,7 +9038,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/discovery-set-model-pdp.jpg?v=1710880434"
         }
       ],
-      "price": "",
+      "price": 125,
       "product": [
         "bf88227a-0fed-11ef-acf0-36ed3c6c91fc",
         "bf88225c-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9047,7 +9047,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 4487,
-      "sale_price": 125,
+      "sale_price": 0,
       "title": "The Discovery Set",
       "review": [
         "49d02960-0fed-11ef-a309-36ed3c6c91fc",
@@ -9212,7 +9212,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9221,7 +9221,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49d02b0e-0fed-11ef-a309-36ed3c6c91fc",
@@ -9258,7 +9258,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9267,7 +9267,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49d02ba4-0fed-11ef-a309-36ed3c6c91fc",
@@ -9312,7 +9312,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9321,7 +9321,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49d02c30-0fed-11ef-a309-36ed3c6c91fc",
@@ -9362,11 +9362,11 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/Juliyasculptor.00_05_20_10.Still001.jpg?v=1700586527"
         }
       ],
-      "price": "",
+      "price": 65,
       "product": [],
       "ratings": 4.9,
       "ratings_total": 58,
-      "sale_price": 65,
+      "sale_price": 0,
       "title": "The Sculptor",
       "review": [
         "49d02cbc-0fed-11ef-a309-36ed3c6c91fc",
@@ -9403,7 +9403,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9412,7 +9412,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49d02d5c-0fed-11ef-a309-36ed3c6c91fc",
@@ -9449,7 +9449,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9458,7 +9458,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49d02de8-0fed-11ef-a309-36ed3c6c91fc",
@@ -9503,7 +9503,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9512,7 +9512,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49d02e7e-0fed-11ef-a309-36ed3c6c91fc",
@@ -9661,7 +9661,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9670,7 +9670,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d0302c-0fed-11ef-a309-36ed3c6c91fc",
@@ -9895,7 +9895,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9904,7 +9904,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49d031da-0fed-11ef-a309-36ed3c6c91fc",
@@ -9985,7 +9985,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -9994,7 +9994,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d03270-0fed-11ef-a309-36ed3c6c91fc",
@@ -10219,7 +10219,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/2ead1e80b9d24c098b2b2ccb1b21956d.thumbnail.0000000000.jpg?v=1714661971"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881b72-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881b5e-0fed-11ef-acf0-36ed3c6c91fc",
@@ -10228,7 +10228,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 2185,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "Sculpted Face Stick",
       "review": [
         "49d03432-0fed-11ef-a309-36ed3c6c91fc",
@@ -10309,7 +10309,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -10318,7 +10318,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d034be-0fed-11ef-a309-36ed3c6c91fc",
@@ -10597,7 +10597,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/OGEE-BIRCH-SECONDARY.jpg?v=1698166304"
         }
       ],
-      "price": "",
+      "price": 64,
       "product": [
         "bf8819e2-0fed-11ef-acf0-36ed3c6c91fc",
         "bf8819ce-0fed-11ef-acf0-36ed3c6c91fc",
@@ -10606,7 +10606,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 3934,
-      "sale_price": 64,
+      "sale_price": 0,
       "title": "Sculpted Complexion Stick",
       "review": [
         "49d036f8-0fed-11ef-a309-36ed3c6c91fc",
@@ -10815,7 +10815,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/MG_8768.jpg?v=1686677251"
         }
       ],
-      "price": "",
+      "price": 38,
       "product": [
         "bf881aaa-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a96-0fed-11ef-acf0-36ed3c6c91fc",
@@ -10824,7 +10824,7 @@
       ],
       "ratings": 4.8,
       "ratings_total": 191,
-      "sale_price": 38,
+      "sale_price": 0,
       "title": "The Precision Brush",
       "review": [
         "49d038b0-0fed-11ef-a309-36ed3c6c91fc",
@@ -10861,7 +10861,7 @@
           "original_src": "https://ogee.com/cdn/shop/files/preview_images/CE2A6926.00_01_39_24.Still007.jpg?v=1697120181"
         }
       ],
-      "price": "",
+      "price": 30,
       "product": [
         "bf881b0e-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881afa-0fed-11ef-acf0-36ed3c6c91fc",
@@ -10870,7 +10870,7 @@
       ],
       "ratings": 5.0,
       "ratings_total": 431,
-      "sale_price": 30,
+      "sale_price": 0,
       "title": "The Brush Cleanser",
       "review": [
         "49d0393c-0fed-11ef-a309-36ed3c6c91fc",
@@ -10915,7 +10915,7 @@
           "original_src": "https://ogee.com/cdn/shop/products/jorddanbaker--crystal-contour-collection-_-tik-tok_--2022-09-02-07-42-40--instagram16.00_00_01_08.Still004.jpg?v=1663880712"
         }
       ],
-      "price": "",
+      "price": 58,
       "product": [
         "bf881a46-0fed-11ef-acf0-36ed3c6c91fc",
         "bf881a32-0fed-11ef-acf0-36ed3c6c91fc",
@@ -10924,7 +10924,7 @@
       ],
       "ratings": 4.9,
       "ratings_total": 3655,
-      "sale_price": 58,
+      "sale_price": 0,
       "title": "The Blender Brush",
       "review": [
         "49d039dc-0fed-11ef-a309-36ed3c6c91fc",
